@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"f3fececedfb2afd3","type":"text","text":"The forest path","x":-240,"y":-660,"width":250,"height":80},
+		{"id":"7a50237ef7d4412d","type":"text","text":"The crossroad","x":330,"y":-220,"width":250,"height":60,"color":"4"},
+		{"id":"d2fe6550551e4131","type":"text","text":"The swamp path","x":-680,"y":-280,"width":250,"height":60},
+		{"id":"5d923ecf895194c6","type":"text","text":"Travel","x":-1299,"y":-463,"width":250,"height":60},
+		{"id":"88efb090e91e5aa4","type":"text","text":"Travel","x":-1447,"y":-921,"width":250,"height":60},
+		{"id":"96ed7db71090317b","type":"text","text":"The temple of summoning 2\n","x":-2009,"y":-248,"width":250,"height":128},
+		{"id":"3789a3e01ef647f6","type":"text","text":"The mountain path","x":-50,"y":480,"width":250,"height":60},
+		{"id":"d42f5a08ee92023e","type":"text","text":"Travel","x":-680,"y":600,"width":250,"height":90},
+		{"id":"ecea5f086bd757f9","type":"text","text":"Forest entrance\n","x":1020,"y":-230,"width":170,"height":70,"color":"4"}
+	],
+	"edges":[
+		{"id":"51cc3be79300a722","fromNode":"ecea5f086bd757f9","fromSide":"left","toNode":"7a50237ef7d4412d","toSide":"right"},
+		{"id":"62d59aaa32f92c00","fromNode":"7a50237ef7d4412d","fromSide":"bottom","toNode":"3789a3e01ef647f6","toSide":"top"},
+		{"id":"273864a45bd8e504","fromNode":"7a50237ef7d4412d","fromSide":"left","toNode":"d2fe6550551e4131","toSide":"right"},
+		{"id":"852473a4d1798906","fromNode":"7a50237ef7d4412d","fromSide":"top","toNode":"f3fececedfb2afd3","toSide":"bottom"},
+		{"id":"3c27c78640b2c16a","fromNode":"3789a3e01ef647f6","fromSide":"left","toNode":"d42f5a08ee92023e","toSide":"right"},
+		{"id":"91b9f91d356cb906","fromNode":"d2fe6550551e4131","fromSide":"left","toNode":"5d923ecf895194c6","toSide":"right"},
+		{"id":"d9347f1f56dde193","fromNode":"f3fececedfb2afd3","fromSide":"left","toNode":"88efb090e91e5aa4","toSide":"right"},
+		{"id":"81dcb073118c9143","fromNode":"88efb090e91e5aa4","fromSide":"left","toNode":"96ed7db71090317b","toSide":"top"},
+		{"id":"0b114d5d735ee14a","fromNode":"5d923ecf895194c6","fromSide":"left","toNode":"96ed7db71090317b","toSide":"right"},
+		{"id":"b6b3f308e157c247","fromNode":"d42f5a08ee92023e","fromSide":"left","toNode":"96ed7db71090317b","toSide":"bottom"}
+	]
+}

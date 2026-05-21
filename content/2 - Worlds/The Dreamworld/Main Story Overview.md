@@ -1,0 +1,11 @@
+## Starting
+- The heroes are pulled into strange world where they find themselves trapped
+- They wake up in an ancient temple city
+	- The green fog blocks their way out of the city
+- Players need to find a way to get through the gate
+- In the [[Temple of reflections]] players meet the [[Kutsuja]] who tells them to go to another temple which is behind the forest that's next to the temple
+- In the forest heroes meet all kinds of challenges and depending the path they take, they either get to: 
+	- Swamp
+	- Mountains
+	- Stay in the forest
+- All paths lead to the temple the Inviter told about.

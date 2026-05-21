@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"f7690163cbe48063","type":"text","text":"Session Plan 20.3","x":-460,"y":-1225,"width":250,"height":60,"color":"6"},
+		{"id":"40f41c9baa4c116a","type":"text","text":"Mistä niille turvapaikka??","x":-460,"y":-1560,"width":250,"height":60},
+		{"id":"0f68298e45c6ba9f","type":"text","text":"[[Vesper Dhassu]]","x":67,"y":-800,"width":173,"height":50},
+		{"id":"e8509b2263236d66","type":"text","text":"Matkan alku\n- Roolien valinta\n- Echo walker näyttäytyy\n\t- Spoopy","x":67,"y":-1264,"width":250,"height":198,"color":"1"},
+		{"id":"7fe3c785315b1564","type":"text","text":"Sauva\n","x":115,"y":-980,"width":250,"height":66},
+		{"id":"b0824352d3af3fb8","type":"text","text":"Keskikohta\n+ Tähän asti tie ollut suht selkeä\n+ Haarautuu kolmeen suuntaan\n+ Sentinel encounter","x":520,"y":-1264,"width":250,"height":198,"color":"2"},
+		{"id":"4a761b8f4d9f95b7","type":"text","text":"Expanded Travel Rules\nhttps://www.gmbinder.com/share/-LMvx1lEqUrhUAOZV_Th","x":365,"y":-1800,"width":250,"height":150},
+		{"id":"0912e9a6d4f2e244","type":"text","text":"Matkan loppu \"Vihdoinkin te tulitte.\"  Ja sessio loppuu\n","x":1420,"y":-1195,"width":270,"height":60},
+		{"id":"37fcc56b83a13113","type":"text","text":"Loppu\n\nTiet on uudempia\nIvory Sentinelejä on paljon\nUneksijoiden temppelin ympärillä on vihreä sumu","x":880,"y":-1242,"width":332,"height":155,"color":"6"},
+		{"id":"bae5f1b78e282ed0","type":"text","text":"Cromwellien perhe on mukana","x":-460,"y":-1400,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6ab00a8d48517aeb","fromNode":"f7690163cbe48063","fromSide":"top","toNode":"bae5f1b78e282ed0","toSide":"bottom"},
+		{"id":"84f61dc467a5f5b1","fromNode":"bae5f1b78e282ed0","fromSide":"top","toNode":"40f41c9baa4c116a","toSide":"bottom"},
+		{"id":"9d48d6ed7a7dfb7d","fromNode":"7fe3c785315b1564","fromSide":"bottom","toNode":"0f68298e45c6ba9f","toSide":"top"},
+		{"id":"082275f2e3651588","fromNode":"f7690163cbe48063","fromSide":"right","toNode":"e8509b2263236d66","toSide":"left"},
+		{"id":"b2aa4ba92bcdae7d","fromNode":"e8509b2263236d66","fromSide":"bottom","toNode":"7fe3c785315b1564","toSide":"top"},
+		{"id":"0bc46e34ef4dfef5","fromNode":"e8509b2263236d66","fromSide":"right","toNode":"b0824352d3af3fb8","toSide":"left"},
+		{"id":"230dfac36d58b4a2","fromNode":"b0824352d3af3fb8","fromSide":"right","toNode":"37fcc56b83a13113","toSide":"left"},
+		{"id":"277c124eacffa5be","fromNode":"37fcc56b83a13113","fromSide":"right","toNode":"0912e9a6d4f2e244","toSide":"left"}
+	]
+}
