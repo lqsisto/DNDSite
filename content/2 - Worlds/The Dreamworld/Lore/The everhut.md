@@ -1,3 +1,0 @@
- - Everhut is a magical building created by the [[Kutsuja]]
- - From the outside it looks like a bubble
- - From the inside it looks like it's built inside a gigantic tree
