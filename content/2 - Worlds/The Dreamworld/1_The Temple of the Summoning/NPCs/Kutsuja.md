@@ -1,11 +1,8 @@
 ---
 type: NPC
-faction: 
-description: 
-- "A mysterious figure who can be seen standing afar"
-- "Wears a green cape"
-- "Helps players and guides them towards the goal"
-race: 
+faction:
+description: A mysterious figure who can be seen standing afar
+race:
 gender: Woman
 class:
 ---
